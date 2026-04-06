@@ -27,12 +27,7 @@ This project is built for a finance workflow where:
 - Role-based authorization
 - Financial records CRUD
 - Dashboard summary and trend analytics
-<<<<<<< HEAD
-- MongoDB persistence with Mongo
-=======
 - MongoDB persistence with Mongoose
-
->>>>>>> 3c2d18c82b17203a0ca7d19193f0053f475651a6
 ## Base URL
 
 For local development:
@@ -515,11 +510,6 @@ Success response:
 3. Use the admin token to create records
 4. Use the admin token to create or promote another user to analyst
 5. Log in as analyst to access records and dashboard analytics
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 3c2d18c82b17203a0ca7d19193f0053f475651a6
 ## Author
 
 Ayush Kumar
