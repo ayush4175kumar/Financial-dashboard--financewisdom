@@ -27,18 +27,7 @@ This project is built for a finance workflow where:
 - Role-based authorization
 - Financial records CRUD
 - Dashboard summary and trend analytics
-- MongoDB persistence with Mongoose
-
-## Repository / Submission Links
-
-Use these fields when submitting:
-
-- `Source Code URL`: your GitHub repository link
-- `API Documentation URL`: `https://github.com/<your-username>/<your-repo-name>#readme`
-- `Live Demo URL`: add your deployed backend URL after deployment, for example `https://your-app.onrender.com`
-
-If the backend is not deployed yet, you can submit the README link as your API documentation and leave the live demo field empty if the form allows it.
-
+- MongoDB persistence with Mongo
 ## Base URL
 
 For local development:
