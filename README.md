@@ -502,26 +502,14 @@ Success response:
 }
 ```
 
-## Suggested Testing Flow
+## Suggested Testing Flow  where you can test
+
 
 1. Register an admin user
 2. Log in to get a JWT token
 3. Use the admin token to create records
 4. Use the admin token to create or promote another user to analyst
 5. Log in as analyst to access records and dashboard analytics
-
-## Deployment Notes
-
-This project is a backend API, so GitHub Pages is not suitable for deployment. Use GitHub to host the source code and deploy the running API on a backend platform such as:
-
-- Render
-- Railway
-- Cyclic
-
-After deployment, update this README with:
-
-- `Live Demo URL`
-- production `Base URL`
 
 ## Author
 
